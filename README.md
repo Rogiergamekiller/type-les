@@ -1,4 +1,6 @@
 # type-les
+
+```
 int score = 0;
 
 char letter;
@@ -37,3 +39,4 @@ breedte = breedte - 4;
 char willekeurigeLetter(){
   return alphabet[(int)random(alphabet.length)];
 }
+```
